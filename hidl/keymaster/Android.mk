@@ -30,6 +30,7 @@ LOCAL_SHARED_LIBRARIES := \
     libhardware \
     libhidlbase \
     libkeymaster4support \
+    libkeymaster4 \
     liblog \
     libutils
 
